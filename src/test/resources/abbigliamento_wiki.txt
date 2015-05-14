@@ -1,0 +1,89 @@
+[[File:Black leather biker jacket.jpg|thumb|un [[giubbotto]] [[tipico]] [[capo]] d'abbigliamento per motociclisti]]
+== {{-it-}} ==
+{{-sost-|it}} 
+{{Pn|w}} ''m sing'' {{Linkp|abbigliamenti}}
+#{{term|tessile|it}}{{Term|abbigliamento|it}}{{term|tecnologia|it}} complesso di abiti e calzature con cui ci si veste
+# il modo di vestirsi 
+# settore [[merceologico]] relativo ai [[vestito|vestiti]]
+
+
+{{-sill-}}
+; ab | bi | glia | mén | to
+
+{{-pron-}}
+{{IPA|/abbiʎʎa'mento/}}
+
+{{-etim-}}
+dal {{fr}} ''[[habillement]]''
+
+{{-sin-}}
+*[[abiti]], [[vestiario]], [[indumenti]], [[guardaroba]]; [[vestito]], [[abito]], capo d’abbigliamento, [[veste]], [[toilette]]
+* modo di vestire, [[look]], [[mise]], [[foggia]], [[tenuta]], [[costume]]
+*{{Est}} [[ ornamento]], [[abbellimento]], [[finimento]]
+*{{Term|raro|it}} [[addobbo]], [[decorazione]]
+{{-rel-}}
+*[[abbligliare]]
+
+{{-trad-}}
+{{Trad1|indumenti, vestiario}}
+:* {{en}}: [[clothing]], [[clothes]]
+:*{{fr}}: [[vêtements]] ''m''
+:*{{es}}:[[vestuario]] ''m''
+{{Trad2}}
+{{Trad1|settore merceologico relativo ai vestito}}
+:*{{ca}}: [[]]
+:*{{de}}: [[]]
+:*{{el}}: [[]] 
+:*{{en}}: [[clothing ]]
+:*{{eo}}: [[]]
+:*{{fi}}: [[]]
+:*{{fo}}: [[]]
+:*{{fr}}: [[habillement]] ''m''
+:*{{ia}}: [[]]
+:*{{io}}: [[vestaro]]
+:*{{is}}: [[klæðnaður]], [[klæðaburður]]  
+:*{{ja}}: [[]] 
+{{mid}}
+:*{{la}}: [[]]
+:*{{nl}}: [[ ]]
+:*{{pl}}: [[] 
+:*{{pt}}: [[]]
+:*{{ra}}: [[]] 
+:*{{ro}}: [[]] 
+:*{{ru}}: [[]]
+:*{{sdc}}: [[abbigliamentu]] 
+:*{{es}}: [[vestido]] ''m''
+:*{{sv}}: [[klädesplagg]]
+:*{{hu}}: [[]]
+{{Trad2}}
+
+{{-ref-}}
+* {{Fonte|trec}}
+* {{Fonte|dizit}}
+* {{Fonte|sape}}
+* {{Fonte|gar}}
+*{{Fonte|sin-co}}
+*{{Fonte|hoep}}
+
+== Altri progetti ==
+{{Interprogetto|w|commons=Clothing}}
+
+[[chr:abbigliamento]]
+[[cs:abbigliamento]]
+[[de:abbigliamento]]
+[[el:abbigliamento]]
+[[en:abbigliamento]]
+[[es:abbigliamento]]
+[[fj:abbigliamento]]
+[[fr:abbigliamento]]
+[[hu:abbigliamento]]
+[[hy:abbigliamento]]
+[[io:abbigliamento]]
+[[ko:abbigliamento]]
+[[mg:abbigliamento]]
+[[pl:abbigliamento]]
+[[ru:abbigliamento]]
+[[th:abbigliamento]]
+[[tl:abbigliamento]]
+[[tr:abbigliamento]]
+[[zh:abbigliamento]]

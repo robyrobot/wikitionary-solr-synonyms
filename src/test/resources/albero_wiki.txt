@@ -1,0 +1,201 @@
+{{W|le traduzioni andrebbero divise a seconda della definizione}}
+== {{-it-}} ==
+{{-sost-|it}}
+{{Pn|w}} ''m sing'' {{Linkp|alberi}}
+[[File:Linde von linn.jpg|thumb|250px|un albero solitario]]{{Term|botanica|it}}]]
+[[File:Grand Turk(03).jpg|thumb|250px|'''alberi''' di una [[nave]] {{Term|marina|it}}]]
+[[Immagine:Binary_tree_%28oriented_digraph%29.png|thumb|250px|[[struttura]] ad '''albero''' {{Term|matematica|it}}]]
+# {{Term|botanica|it}} [[vegetale]] [[perenne]] dotato di un [[fusto]] [[legnoso]] molto alto, spesso e duro, detto [[tronco]], di [[rami]] in genere coperti di [[foglie]]
+# {{Term|botanica|it}} [[pioppo bianco]] (''Populus alba'')
+# {{Term|marina|it}} [[palo]] che sostiene le [[vele]] di una [[nave]]
+# {{Term|matematica|it}} [[grafo]] connesso aciclico
+# qualunque [[struttura]] dotata di un [[asse]] principale avente [[diramazioni]]
+# {{Term|meccanica|it}} [[organo]] [[rotante]] che [[trasmette]] [[forza]] [[motrice]] e [[potenza]] alle parti in movimento
+# {{Term|araldica|it}} figura araldica convenzionale nella quale non si distinguono le foglie; se la specie arborea è riconoscibile, per la forma o per le foglie, va blasonata con il suo nome esatto; di norma rappresentato ''di verde'' o ''al naturale''
+
+{{-sill-}}
+; àl | be | ro
+
+{{-pron-}}
+{{IPA|/'albero/}}
+
+{{-etim-}}
+dal [[latino]] ''[[albarus|albărus]]'', derivazione di ''[[albus]]'' ossia "[[bianco]]" (fonte Treccani);
+
+{{-quote-}}
+{{Quote
+|Così ogni '''albero''' buono produce frutti buoni e ogni albero cattivo produce frutti cattivi.
+|[[w:Vangelo secondo Matteo|Vangelo secondo Matteo]] {{Passo biblico|Mt|7,17}}}}
+
+{{-der-}}
+*[[semialbero]]
+* {{Term|botanica|it}} [[alberato]], [[alberatura]], [[albero di Natale]]
+
+{{-sin-}}
+*[[pianta]]
+*[[tronco]], [[fusto]], [[ceppo]]
+*{{Term|marina|it}} [[antenna]]
+*{{Term|meccanica|it}} [[asse]]
+*pioppo bianco, [[gattice]], [[albogatto]]
+
+{{-rel-}}
+* {{Term|botanica|it}} [[arboreo]], [[arboreto]], [[arboricoltura]], [[pianta]], [[vegetale]]
+* {{Term|meccanica|it}} [[asse]], [[camme]], [[mozzo]]
+
+{{-alter-}}
+*{{Dim}}  [[alberello]], [[alberetto]], [[alberino]]
+
+{{-trad-}}
+{{trad1|pianta}}
+:*{{af}}: [[boom]]
+:*{{akz}}:  [[itto]]
+:*{{sq}}:  [[dru]]
+:*{{ar}}:  [[شجرة]] (šajara)
+:*{{hy}}: [[ծառ]] (caṙ)
+:*{{az}}: [[ağac]]
+:*{{eu}}:  [[zuhaitz]]
+:*{{be}}: [[дрэва]] (dreva) ''n''
+:*{{br}}:  [[gwezenn]]
+:*{{bg}}:  [[дърво]] (dǎrvo) ''n''
+:*{{ca}}:  [[arbre]] ''m''
+:*{{cs}}:  [[strom]] ''m''
+:*{{zh}}:  [[樹]], [[树]] (shù)
+:*{{ko}}:  [[나무]] (namu)
+:*{{hr}}: [[drvo]] ''n''
+:*{{da}}:  [[træ]] ''n''
+:*{{he}}:  [[עץ]] (ets)
+:*{{et}}:  [[puu]]
+:*{{fil}}: [[puno]]
+:*{{fi}}:  [[puu]]
+:*{{fr}}:  [[arbre]] ''m''
+:*{{fy}}: [[beam]]
+:*{{gd}}:  [[craobh]] ''f''
+:*{{gl}}:  [[árbore]]
+:*{{cy}}:  [[coeden]]
+:*{{ka}}: [[ხე]] (xe)
+:*{{ja}}:  [[木]] ([[き]], ki)
+:*{{el}}: [[δέντρο]] (déntro) ''n''
+:*{{id}}: [[pohon]]
+:*{{en}}:  [[tree]]
+:*{{ga}}:  [[crann]] ''m''
+:*{{is}}:  [[tré]] ''n''
+{{mid}}
+:*{{kk}}: [[ағаш]] (ağaş)
+:*{{la}}: [[arbor]] ''f''
+:*{{lv}}: [[koks]] ''m''
+:*{{lij}}:  [[ærbǚ]]
+:*{{lt}}:  [[medis]] ''m''
+:*{{mk}}: [[дрво]] (drvo) ''n''
+:*{{ms}}: [[pokok]]
+:*{{mt}}: [[siġra]] ''f''
+:*{{nap}}:  [[arvero]]
+:*{{no}}:  [[tre]] ''n''
+:*{{oc}}:  [[arbre]] ''m''
+:*{{nl}}:  [[boom]]
+:*{{pap}}:  [[as]]
+:*{{fa}}: [[درخت]]
+:*{{pl}}:  [[drzewo]] ''n''
+:*{{pt}}:  [[árvore]] ''m''
+:*{{ro}}: [[arbore]] ''m'', [[copac]] ''m''
+:*{{ru}}:  [[дерево]] (derevo) ''n''
+:*{{sr}}: [[дрво]] (drvo) ''n''
+:*{{scn}}: [[àrbulu]]
+:*{{sk}}:  [[strom]] ''m''
+:*{{sl}}:  [[drevo]] ''m''
+:*{{so}}: [[geed]]
+:*{{es}}:  [[árbol]] ''m'', [[albers]]
+:*{{sv}}:  [[träd]] ''n''
+:*{{sw}}: [[mti]]
+:*{{de}}:  [[Baum]] ''m''
+:*{{th}}: [[ต้นไม้]] (tònmai)
+:*{{tr}}: [[ağaç]]
+:*{{uk}}:  [[дерево]] (derevo) ''n''
+:*{{hu}}:  [[fa]]
+:*{{vi}}: [[cây]]
+{{trad2}}
+
+{{trad1|palo che sostiene le vele di una nave}}
+:*{{cs}}: [[stěžeň]] ''m''
+:*{{da}}: [[mast]]
+:*{{et}}:  [[masto]] 
+:*{{fi}}:  [[masto]] 
+:*{{fr}}:  [[mât]] ''m''
+:*{{en}}:  [[mast]]
+:*{{la}}:  [[malus]] ''m'', [[arbor]] ''f''
+{{mid}}
+:*{{no}}:  [[mast]]
+:*{{nl}}:  [[mast]]
+:*{{pl}}:  [[maszt]]
+:*{{pt}}:  [[mastro]] ''m''
+:*{{es}}:  [[mástil]] ''m''
+:*{{sv}}:  [[mast]]
+:*{{de}}:  [[Mast]] ''m''
+{{trad2}}
+
+{{-ref-}}
+* {{Fonte|dem}}
+* {{Fonte|dizit}}
+* {{Fonte|trec}}
+* {{Fonte|hoep}}
+* {{Fonte|sabco}}
+* {{Fonte|eti}}
+* {{Fonte|zin|63|1997}}
+*{{Fonte|sin-co|1}}
+*{{Fonte|sin-co|2}}
+*Devoto/Oli,''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 56
+*AA.VV. ''Dizionario etimologico'', edizione 2004, ristampa 2008, RusconiLibri, p. 49 
+* {{Fonte|dizla}}
+* {{Fonte|itfd}}
+* {{Term|araldica|it}} ''[http://www.archiviodistato.firenze.it/ceramellipapiani/static/figure.htm Glossario dell'Archivio di Stato di Firenze]''
+* {{Term|araldica|it}} ''Manuale di araldica ecclesiastica, di A. Cordero Lanza di Montezemolo e A. Pompili - edito a Roma nel 2014''
+
+== Altri progetti ==
+{{Interprogetto|w|w_preposizione=sull'|q|q_preposizione=sull'|commons=Tree|commons_preposizione=sull'}}
+
+[[az:albero]]
+[[bg:albero]]
+[[ca:albero]]
+[[chr:albero]]
+[[co:albero]]
+[[cs:albero]]
+[[de:albero]]
+[[el:albero]]
+[[en:albero]]
+[[es:albero]]
+[[eu:albero]]
+[[fa:albero]]
+[[fi:albero]]
+[[fj:albero]]
+[[fr:albero]]
+[[gl:albero]]
+[[gv:albero]]
+[[hu:albero]]
+[[hy:albero]]
+[[id:albero]]
+[[io:albero]]
+[[ja:albero]]
+[[ko:albero]]
+[[lt:albero]]
+[[lv:albero]]
+[[mg:albero]]
+[[mk:albero]]
+[[nah:albero]]
+[[nl:albero]]
+[[no:albero]]
+[[oc:albero]]
+[[om:albero]]
+[[pl:albero]]
+[[pt:albero]]
+[[ro:albero]]
+[[ru:albero]]
+[[scn:albero]]
+[[si:albero]]
+[[sm:albero]]
+[[sv:albero]]
+[[ta:albero]]
+[[tg:albero]]
+[[th:albero]]
+[[tl:albero]]
+[[tr:albero]]
+[[uz:albero]]
+[[zh:albero]]

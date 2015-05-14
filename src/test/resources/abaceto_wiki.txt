@@ -1,0 +1,15 @@
+== {{-it-}} ==
+{{-sost-|it}}
+{{Pn}} ''m sing'' {{Linkp|abaceti}}
+# {{Term|zoologia|it}} [[genere]] di [[coleotteri]] [[caraibici]] della [[Guinea]] o del [[Senegal]], di [[colore]] [[nero]] o [[scuro]]
+
+{{-sill-}}
+; a | ba | cè | to
+
+{{-etim-}}
+{{Noetim|it}}
+
+{{-ref-}}
+* {{Fonte|zin|5|1922}}
+
+[[es:abaceto]]

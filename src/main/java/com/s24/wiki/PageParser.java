@@ -1,26 +1,28 @@
 package com.s24.wiki;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-
 import edu.jhu.nlp.wikipedia.WikiPage;
 
 public abstract class PageParser {
 
    PageParserCallback callback;
-
-   public PageParser(PageParserCallback cb) {
+   ILanguageProfile langHlp;
+   public PageParser(PageParserCallback cb, ILanguageProfile helper) {
       callback = cb;
+      langHlp = helper;
    }
 
    abstract public void parse(WikiPage page);
 
-   abstract protected String getName();
-
+   final protected ILanguageProfile getLanguageHelper() {
+	   return langHlp;
+   }
+   
+   protected boolean isValidGrammarPage(WikiPage page) {
+	   return langHlp.isValidGrammarPage(page.getWikiText(), page.getTitle());
+   }
+   
    protected boolean isValidPage(WikiPage page) {
-      Pattern pattern = Pattern.compile("\\{\\{Überarbeiten\\|[^\\}]*" + getName());
-      Matcher matcher = pattern.matcher(page.getWikiText());
-      return !matcher.find();
-
+	  return langHlp.isValidSubwordPage(page.getWikiText(), page.getTitle()); 
+	  
    }
 
 }
