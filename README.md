@@ -2,7 +2,7 @@
 
 
 ## Why this fork ?
-The original version of the code manages only german version of the wikitionary markup. Since I needed to adapt the code to parse an italian version of the wikitionary, I asked to myself << can I build up a more "generic" version ? >> The answer was << Why not ? >>. 
+The original version of the code manages only german version of the wikitionary markup. Since I needed to adapt the code to parse an italian version of the wikitionary, I asked to myself << can I build up a more "generic" version ? >> The answer was << Why not ! >>. 
 I Hope this fork may be useful to other people. 
 
 Parser for wiktionary files that creates 2 files `<lang>.stem.txt` (<lang> stemming) and `<lang>.subword.txt`. <lang> will be replaced by your language.
