@@ -1,21 +1,22 @@
 # wikitionary-solr-synonyms
 
 
-## Why this fork ?
+>## Why this fork ?
 The original version of the code manages only german version of the wikitionary markup. Since I needed to adapt the code to parse an italian version of the wikitionary, I asked to myself << can I build up a more "generic" version ? >> The answer was << Why not ! >>. 
 I Hope this fork may be useful to other people. 
 
-Parser for wiktionary files that creates 2 files `<lang>.stem.txt` (<lang> stemming) and `<lang>.subword.txt`. <lang> will be replaced by your language.
+## What is it ?
+It's a parser for wiktionary files that creates 2 files `<lang>.stem.txt` for stemming and `<lang>.subword.txt` for synonyms (<lang> will be replaced by your language).
  
 E.g: it.stem.txt (for italian).
 
-Stemming:
+Example of a stem.txt file contents:
 ```
 (de) pullover,pullovers,pullovern => pullover
 (it) maglione,maglioni => maglione 
 ```
 
-Subwords:
+Example of a subword.txt file contents:
 ```
 (de) pullover,pullovers,pullovern => pullover,pullovern,pullovers,strickpullover,sweatshirt,wollpullover
 (it) pullover => cardigan,golf,maglione,pullover
